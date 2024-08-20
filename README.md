@@ -3,8 +3,7 @@
 - 📫 How to reach me gmail:retrayone@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing video games and reading 
-- 
-- 
+  
 
 <!---
 Retrayone/Retrayone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
